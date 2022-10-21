@@ -1,2 +1,2 @@
 # Earthlink
-Create NEw Earthlink Repository
+Create New Earthlink Repository
